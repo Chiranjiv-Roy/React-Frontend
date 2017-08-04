@@ -1,0 +1,14 @@
+.form-control.nav-search {
+	width: 40vw;
+	margin-right: 5px; 
+}
+
+.navbar-inverse .navbar-brand {
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+}
