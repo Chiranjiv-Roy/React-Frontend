@@ -48,8 +48,8 @@ class Sidebar extends Component {
     	<div>
     		<Menu isOpen={ false } alignment="left" styles={styles}>
         		<a id="home" className="menu-item" href="/">Home</a>
-        		<a id="about" className="menu-item" href="/about">About</a>
-        		<a id="contact" className="menu-item" href="/contact">Contact</a>
+        		<a id="teams" className="menu-item" href="/about">Teams</a>
+        		<a id="blog" className="menu-item" href="/posts">Blog</a>
         		<a onClick={ this.showSettings } className="menu-item--small">Settings</a>
         	</Menu>
        		<div id="outer-container">
